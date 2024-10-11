@@ -1,7 +1,5 @@
 import cv2
 import numpy as np
-
-
 class TableExtractor:
 
     def __init__(self, image_path):
